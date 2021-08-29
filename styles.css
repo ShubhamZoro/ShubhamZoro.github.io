@@ -63,12 +63,21 @@ p{
 .col-3{
     width: 55%;
 }
-@media(max-width:690px){
-    .coloumn{
-        flex-direction:column
+@media(max-width:684px)
+{
+    .column{
+        flex-direction: column;
+        
     }
-    .col-1,col-2,col-3{
-        width:100%}
+    .col-1{
+        width:100%
+    }
+    .col-2{
+        width:100%
+    }
+    .col-3{
+        width: 100%;
+    }
 }
 
 
