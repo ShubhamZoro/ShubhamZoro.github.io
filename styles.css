@@ -3,6 +3,17 @@ body{
     
     font-size: 1.125rem;
 }
+@media(min-width:700px){
+    body{
+        background:pink
+    }
+}
+
+@media(min-width:800px){
+    body{
+        background:orange
+    }
+}
 h1{
     text-align: center;
     color: #321614;
