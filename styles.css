@@ -17,12 +17,6 @@ img{
     display: block;
     width: 25%;
     margin:auto;
-    
-    
-    
-
-    
-
     /* margin-top: 670px; */
 }
 p{
@@ -33,35 +27,21 @@ h2{
     font-size: 1.5rem;
 }
 .container{
-    
-    
     width: 100%;
-    
-    
-    
     font-size: 1rem;
-    
-    
 }
 .column{
     display: flex;
     justify-content: space-between;
     margin:1em 0;
     align-items:flex-start ;
-    
-   
-    
 }
 p{
     color: snow;
 }
 .col{
-    
-    
     margin-left: 15px;
     color: #707070;
-    
-    
 }
 .col-1{
     width:40%
